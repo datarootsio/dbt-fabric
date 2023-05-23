@@ -9,7 +9,7 @@ from setuptools.command.install import install
 package_name = "dbt-fabric"
 authors_list = ["Sam Debruyn"]
 dbt_version = "1.4"
-dbt_sqlserver_requirement = "dbt-sqlserver>=1.4.2"
+dbt_sqlserver_requirement = "dbt-sqlserver>=1.4.3"
 description = "A dbt adapter for Microsoft Fabric DWH"
 
 this_directory = os.path.abspath(os.path.dirname(__file__))

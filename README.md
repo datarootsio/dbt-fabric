@@ -3,7 +3,7 @@
 dbt adapter for Microsoft Fabric Data Warehouses
 
 Note that this is not an official adapter.
-As mentioned in [the docs](https://learn.microsoft.com/en-us/fabric/data-warehouse/connectivity#connect-using-dbt) Microsoft will release an official adapter.
+As mentioned in [the docs](https://learn.microsoft.com/en-us/fabric/data-warehouse/connectivity#connect-using-dbt), Microsoft will release an official adapter.
 
 ## Current state
 

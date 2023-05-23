@@ -13,9 +13,6 @@ Star the repo to follow along as we continue to develop this adapter.
 The following features have been identified to not be functional:
 
 * Everything related to the management of users and their permissions
-* Seeds
-
-This list is probably incomplete.
 
 ## Installation
 

@@ -4,6 +4,9 @@ dbt adapter for Microsoft Fabric Data Warehouses
 
 ## Current state
 
+This adapter is in a very early phase as the Fabric DWH is also still very new and lacks some T-SQL syntax.
+Star the repo to follow along as we continue to develop this adapter.
+
 The following features have been identified to not be functional:
 
 * Everything related to the management of users and their permissions

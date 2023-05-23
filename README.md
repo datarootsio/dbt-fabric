@@ -2,6 +2,9 @@
 
 dbt adapter for Microsoft Fabric Data Warehouses
 
+Note that this is not an official adapter.
+As mentioned in [the docs](https://learn.microsoft.com/en-us/fabric/data-warehouse/connectivity#connect-using-dbt) Microsoft will release an official adapter.
+
 ## Current state
 
 This adapter is in a very early phase as the Fabric DWH is also still very new and lacks some T-SQL syntax.
